@@ -2,7 +2,7 @@
 
 A collaborative platform for software teams to report bugs, suggest features, and coordinate resolutions.
 
-**Live URL:** `https://your-deployed-url.vercel.app` (Update after deployment)
+**Live URL:** `https://devplus-ivory.vercel.app` (Update after deployment)
 
 ---
 
@@ -179,5 +179,5 @@ This project is part of an academic assignment. All rights reserved.
 
 ## 👤 Author
 
-Created by: **[Your Name]**  
-GitHub: [your-github-profile]
+Created by: **[Yusuf Abdullah]**  
+GitHub: [https://github.com/yusufABC]
